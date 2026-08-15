@@ -1,9 +1,0 @@
-Product_ID,Name,Category,Price,Stock,Rating,In_stock,Total_value,Price_Category
-101,Laptop,Electronics,25000.0,15.0,4.6,True,375000.0,Expensive
-102,Phone,Electronics,18000.0,30.0,4.3,True,540000.0,Expensive
-104,Monitor,Electronics,8500.0,6346.428571428572,4.1,True,53944642.85714286,Medium
-111,Smartwatch,Electronics,7500.0,18.0,4.6,True,135000.0,Medium
-113,External SSD,Storage,6500.0,22.0,4.7,True,143000.0,Medium
-115,Office Chair,Furniture,4500.0,10.0,4.1,True,45000.0,Medium
-103,Tablet,Electronics,6346.428571428572,20.0,4.7,True,126928.57142857143,Medium
-108,Headset,Accessories,6346.428571428572,35.0,4.8,True,222125.0,Medium
